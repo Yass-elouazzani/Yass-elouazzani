@@ -1,14 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Yassine El Ouazzani!
 
-👋 Hi, I'm Yassine El Ouazzani!
-I'm a 19-year-old full stack development student at INSTITUT SPECIALISE DE TECHNOLOGIE APPLIQUEE DE GESTION BAB TIZIMI MEKNES.
+I'm a 19-year-old full stack development student at **Specialized Institute of Applied Technology in Management, Bab Tizimi, Meknes**.
 
-🚀 About Me
+## 🚀 About Me
 I’m passionate about web development and constantly learning new technologies to enhance my skills. Currently diving deep into full stack development.
 
-💻 Skills
-Languages: HTML, CSS, JavaScript, Python
+## 💻 Skills
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Frameworks**: React, Node.js
+- **Tools**: Git, GitHub, VS Code
 
-Frameworks: React, Node.js
+## 📚 Projects
+- [Project 1](#): A brief description of your first project.
+- [Project 2](#): A brief description of your second project.
 
-Tools: Git, GitHub, VS Code
+## 📫 Contact Me
+- **Email**: [Your Email](mailto:yass.elouazzani@outlook.com)
