@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Yass-elouazzani/Yass-elouazzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Yassine El Ouazzani!
+I'm a 19-year-old full stack development student at INSTITUT SPECIALISE DE TECHNOLOGIE APPLIQUEE DE GESTION BAB TIZIMI MEKNES.
 
-Here are some ideas to get you started:
+🚀 About Me
+I’m passionate about web development and constantly learning new technologies to enhance my skills. Currently diving deep into full stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+Languages: HTML, CSS, JavaScript, Python
+
+Frameworks: React, Node.js
+
+Tools: Git, GitHub, VS Code
