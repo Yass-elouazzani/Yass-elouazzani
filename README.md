@@ -10,9 +10,5 @@ I’m passionate about web development and constantly learning new technologies 
 - **Frameworks**: React, Node.js
 - **Tools**: Git, GitHub, VS Code
 
-## 📚 Projects
-- [Project 1](#): A brief description of your first project.
-- [Project 2](#): A brief description of your second project.
-
 ## 📫 Contact Me
 - **Email**: [Your Email](mailto:yass.elouazzani@outlook.com)
