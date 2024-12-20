@@ -7,8 +7,8 @@ I’m passionate about web development and constantly learning new technologies 
 
 ## 💻 Skills
 - **Languages**: HTML, CSS, JavaScript, Python
-- **Frameworks**: React, Node.js
-- **Tools**: Git, GitHub, VS Code
+- **Frameworks**: React, Node.js, Bootstrap
+- **Tools**: Git, GitHub, VS Code, Vim
 
 ## 📫 Contact Me
 - **Email**: [Your Email](mailto:yass.elouazzani@outlook.com)
